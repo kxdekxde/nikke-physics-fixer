@@ -1,4 +1,4 @@
-# NIKKE Lobby Wallpaper Swapper
+# NIKKE Physics Fixer
 A simple tool useful to mod [NIKKE](https://nikke-en.com/) bundles. Thanks to Bingle and Danieru for the help.
 
 
