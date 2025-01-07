@@ -9,6 +9,7 @@ A simple tool useful to mod [NIKKE](https://nikke-en.com/) bundles. Thanks to Bi
   - Download and install [Microsoft C++ Build Tools](https://aka.ms/vs/17/release/vs_BuildTools.exe), and after that install the necessary libraries following [this video](https://files.catbox.moe/vqsuix.mp4).
 
   - Open a Windows PowerShell window as Admin, type: pip install UnityPy. And hit enter to install UnityPy for Python.
+  - On the same PowerShell window type: pip install requests. Hit enter to install.
 
 
 
