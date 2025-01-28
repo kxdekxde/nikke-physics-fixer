@@ -13,7 +13,39 @@ A simple tool useful to mod [NIKKE](https://nikke-en.com/) bundles. Thanks to Bi
 
 
 
-## Usage:
+### Update:
+
+I added a new feature where you can use a list from a text file to automate the process of the fixes, now the fixer gives this option besides the old one where you need to input every fix you want manually.
+
+
+
+## Usage with a premade list:
+
+1. Create a text file and rename it "physicsfixes", and write the list of all the fixes you want like this:
+
+<img src="https://files.catbox.moe/3u4oav.jpg" width="800"/>
+
+On the example above the structure is like this:
+
+'character name to fix' 'skin number' - 'character name to use for the fix' 'skin number'.
+
+Basically it follows the same pattern than the option 2 but automating the process with the usage of this text file containing the fixes you want listed.
+
+2. Move the text file to your Desktop or to your Downloads folder, the tool will search for the text file in any of those two locations, if you don't put the text file there the tool will ask you to input the path to the text file manually.
+3. Double-click the exe file "DOROPhysicsFixer.exe".
+4. Wait until the fixer finishes to process stuff, you will see the message "Press enter to continue" so hit Enter.
+5. You will see the next message:
+
+<img src="https://files.catbox.moe/20dhc0.jpg" width="600"/>
+
+
+6. Select option 1 and just wait, the fixer will create the new physics file with the fixes you set in the text file previously.
+7. If everything worked you will see the file with physics fixed saved on your Desktop in a new folder named "PHYSICS_FIXED".
+8. Move that file from that folder "PHYSICS_FIXED" to your "mods" folder located in your NMM folder.
+
+
+
+## Usage manually:
 
 1. Double-click the exe file "DOROPhysicsFixer.exe".
 2. Wait until the fixer finishes to process stuff, you will see the message "Press enter to continue" three times so just hit Enter until the Terminal window continues with the process.
