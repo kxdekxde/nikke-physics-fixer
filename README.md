@@ -2,6 +2,11 @@
 A simple tool useful to mod [NIKKE](https://nikke-en.com/) bundles. Thanks to Bingle and Danieru for the help.
 
 
+## Source code:
+
+The .exe file is a SFX file created with WinRAR that contains all of the Python scripts and JSON files needed, it can be extracted with WinRAR/7Zip.
+
+
 ## Before to use this tool:
 
   - Download and install [.NET SDK 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer).
