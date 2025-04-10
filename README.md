@@ -61,7 +61,7 @@ Basically it follows the same pattern than the option 2 but automating the proce
 ## Usage manually:
 
 1. Double-click the exe file "DOROPhysicsFixer.exe".
-2. Wait until the fixer finishes to process stuff, you will see the message "Press enter to continue" three times so just hit Enter until the Terminal window continues with the process.
+2. Wait until the fixer finishes to process stuff.
 3. You will see the message "Input character name to fix", write the character that you're fixing. For my example I'm fixing Naga physics using 2B free skin physics so I write Naga. Hit Enter.
 4. You will see another message "Input character skin number to fix", write the corresponding number (default is 00, skins are 01 to 04 depending on the skin). For my example I'm fixing default Naga physics so I write 00. Hit Enter.
 5. You will see the message "Input character name to use for the fix", write the character for the fix. For my example I'm fixing Naga physics using 2B free skin physics so I write 2B. Hit Enter.
@@ -70,7 +70,7 @@ Basically it follows the same pattern than the option 2 but automating the proce
  - If you type "No", the fixer will start to fix the required physics data specified in the previous steps.
  - If you type "Yes", the fixer will ask you for more characters to add to the fixer list. With this option you can keep adding as much physics fixes as you want for all of your swapped characters if you made various swaps already.
 8. If you typed "No" then just wait until the fixer finishes to fix the required physics, the Terminal window will close automatically after to finish.
-9. If everything worked you will see the file with physics fixed saved on your Desktop in a new folder named "PHYSICS_FIXED".
+9. If everything worked you will see the file with physics fixed saved on your `C:` drive in a new folder named "PHYSICS_FIXED".
 10. Move that file from that folder "PHYSICS_FIXED" to your "mods" folder located in your NMM folder.
 
 
