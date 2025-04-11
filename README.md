@@ -46,7 +46,7 @@ Basically it follows the same pattern than the option 2 but automating the proce
 
 2. Move the text file to your Desktop or to your Downloads folder, the tool will search for the text file in any of those two locations, if you don't put the text file there the tool will ask you to input the path to the text file manually.
 3. Double-click the exe file "DOROPhysicsFixer.exe".
-4. Wait until the fixer finishes to process stuff, you will see the message "Press enter to continue" so hit Enter.
+4. Wait until the fixer finishes to process stuff.
 5. You will see the next message:
 
 <img src="https://files.catbox.moe/20dhc0.jpg" width="600"/>
