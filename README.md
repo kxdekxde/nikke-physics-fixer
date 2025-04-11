@@ -53,7 +53,7 @@ Basically it follows the same pattern than the option 2 but automating the proce
 
 
 6. Select option 1 and just wait, the fixer will create the new physics file with the fixes you set in the text file previously.
-7. If everything worked you will see the file with physics fixed saved on your Desktop in a new folder named "PHYSICS_FIXED".
+7. If everything worked you will see the file with physics fixed saved on your C: drive in a new folder named "PHYSICS_FIXED".
 8. Move that file from that folder "PHYSICS_FIXED" to your "mods" folder located in your NMM folder.
 
 
